@@ -72,7 +72,7 @@ nav .btn{
 .coin-list{
     position: absolute;
     right: 5%;
-    bottom: 30px;
+    bottom: 15px;
     display: flex;
     align-items: center;
 }
